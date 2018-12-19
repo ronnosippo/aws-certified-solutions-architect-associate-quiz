@@ -2,7 +2,7 @@
   <v-ons-page>
     <custom-toolbar>Page 1</custom-toolbar>
     <p style="text-align: center">
-      This is the first page
+      This is the first page4
       <v-ons-button @click="push">Push Page 2</v-ons-button>
     </p>
   </v-ons-page>
